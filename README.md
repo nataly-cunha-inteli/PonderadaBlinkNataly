@@ -15,6 +15,12 @@ Professor(a): <a href="https://www.linkedin.com/in/kizzyterra/">Profª Kizzy Ter
 - 2 Jumpers Macho-macho
 - 1 Resistor
 
+# Parte 1 - Blink interno
+
+
+
+# Parte 2 - Blink interno
+
 ## Circuito e execução
 
 <div align="center">
@@ -53,3 +59,12 @@ Professor(a): <a href="https://www.linkedin.com/in/kizzyterra/">Profª Kizzy Ter
 
 </div>
 
+## Tinkercad
+
+<sub>Figura 3 - Circuito virtual no Tinkercad </sub>
+
+<img src="assets/tinker.png" width="80%" >
+
+<sup>Fonte: Autoria própria (2024)</sup>
+
+</div>
