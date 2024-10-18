@@ -87,3 +87,7 @@ void loop() {
 <sup>Fonte: Autoria própria (2024)</sup>
 
 </div>
+
+https://github.com/user-attachments/assets/2225125c-a2a3-48af-a637-57b3ff0e114b
+
+
