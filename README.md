@@ -17,7 +17,7 @@ Professor(a): <a href="https://www.linkedin.com/in/kizzyterra/">Profª Kizzy Ter
 
 # Parte 1 - Blink interno
 
-
+https://github.com/user-attachments/assets/52c90c14-af86-4fc1-999f-d5019a91dfa3
 
 # Parte 2 - Blink interno
 
