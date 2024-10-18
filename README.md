@@ -91,3 +91,19 @@ void loop() {
 https://github.com/user-attachments/assets/2225125c-a2a3-48af-a637-57b3ff0e114b
 
 
+### Código
+
+```
+void setup() {
+  pinMode(10, OUTPUT ); // Porta 10 no arduíno será o OUTPUT
+
+}
+
+void loop() {
+  digitalWrite(10, HIGH); // Define que o LED brilhará com forte intensidade
+  delay(1000);
+  digitalWrite(10, LOW); // Define que o LED brilhará com forte intensidade
+  delay(1000); // Delays definem intervalos que criam o fenômeno de piscamento
+
+}
+```
