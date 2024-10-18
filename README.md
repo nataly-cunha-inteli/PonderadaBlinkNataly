@@ -17,7 +17,26 @@ Professor(a): <a href="https://www.linkedin.com/in/kizzyterra/">Profª Kizzy Ter
 
 # Parte 1 - Blink interno
 
+&nbsp;&nbsp;&nbsp;&nbsp;Este programa foi realizado a partir do código "Blink" presente nos templates de programas do Arduíno IDE.
+
 https://github.com/user-attachments/assets/52c90c14-af86-4fc1-999f-d5019a91dfa3
+
+### Código
+
+```
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)
+  delay(1000);                      // wait for a second
+  digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
+  delay(1000);                      // wait for a second
+}
+```
 
 # Parte 2 - Blink interno
 
